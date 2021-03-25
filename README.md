@@ -1,7 +1,7 @@
 # Clustering
 clustering algorithm for computing max-spacing 
 
-## algorithm 1  
+## algorithm 1  (using Depth_First_Search)
 Given number of clusters k, computing max-spacing  
 
 The input file describes a distance function (equivalently, a complete graph with edge costs).  It has the following format:  
